@@ -6,9 +6,12 @@ GitHub EXIF Metadata Viewer is a straightforward tool for extracting and display
 
 ## Live Link
 
-[GitHub EXIF Metadata Viewer - Live Demo](#) <!-- Ad>
+[GitHub EXIF Metadata Viewer - Live Demo](https://exif-meta-data-viewer.vercel.app/) 
 
 ## Demo Pictures
+
+![1](https://github.com/27manavgandhi/Exif-MetaData-Viewer/assets/77005766/a5c4a154-8a28-47a6-ade8-4650f36fdcae)
+
 
 
 
